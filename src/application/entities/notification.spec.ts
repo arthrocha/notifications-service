@@ -9,6 +9,7 @@ describe('Notification', () => {
       recipientId: 'example-recipient-id',
     });
 
+    //persistir essa notificação no banco de dados
     expect(notification).toBeTruthy();
   });
 });
