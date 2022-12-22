@@ -13,6 +13,7 @@
     "incremental": true,
     "skipLibCheck": true,
     "strict": false,
+    "resolveJsonModule": true,
     "strictNullChecks": true,
     "noImplicitAny": false,
     "strictBindCallApply": false,
