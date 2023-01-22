@@ -1,13 +1,15 @@
+## What is it?
 This project is designed to demonstrate the principles of SOLID and DDD (Domain-Driven Design) in action. It was developed in the classes of RocketSeat's Ignite Lab project. The project used the Nestjs, which is a framework for building efficient, scalable Node.js server-side applications. It is built on top of Express.js and makes use of modern JavaScript features, such as async/await.
 
-The service features are:
-1 - Send Notification,
-2 - Cancel Notification,
-3 - Read Notification,
-4 - Unread Notification,
-5 - Count RecipientNotifications,
-6 - get RecipientNotifications,
+## The service features are:
+* Send Notification;
+* Cancel Notification;
+* Read Notification;
+* Unread Notification;
+* Count RecipientNotifications;
+* get RecipientNotifications;
 
+## About SOLID?
 SOLID is an acronym that stands for the following five principles of object-oriented programming:
 
 1-Single Responsibility Principle (SRP): A class should have only one reason to change.
@@ -20,6 +22,7 @@ SOLID is an acronym that stands for the following five principles of object-orie
 
 5-Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules, but both should depend on abstractions.
 
+## About DDD?
 DDD is an approach to software development that focuses on modeling the domain of the problem you're trying to solve. It encourages you to think about the problem from the perspective of the business or domain experts and to create a model that accurately reflects their understanding of the problem. The main concepts of DDD are:
 
 1-Domain: The specific area of knowledge or activity to which the software applies
