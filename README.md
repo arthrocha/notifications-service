@@ -9,7 +9,7 @@ This project is designed to demonstrate the principles of SOLID and DDD (Domain-
 * Count RecipientNotifications;
 * get RecipientNotifications;
 
-## About SOLID?
+## About SOLID
 SOLID is an acronym that stands for the following five principles of object-oriented programming:
 
 1-Single Responsibility Principle (SRP): A class should have only one reason to change.
@@ -22,7 +22,7 @@ SOLID is an acronym that stands for the following five principles of object-orie
 
 5-Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules, but both should depend on abstractions.
 
-## About DDD?
+## About DDD
 DDD is an approach to software development that focuses on modeling the domain of the problem you're trying to solve. It encourages you to think about the problem from the perspective of the business or domain experts and to create a model that accurately reflects their understanding of the problem. The main concepts of DDD are:
 
 1-Domain: The specific area of knowledge or activity to which the software applies
