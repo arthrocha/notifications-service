@@ -1,5 +1,5 @@
 ## What is it?
-This project is designed to demonstrate the principles of SOLID and DDD (Domain-Driven Design) in action. It was developed in the classes of RocketSeat's Ignite Lab project. The project used the Nestjs, which is a framework for building efficient, scalable Node.js server-side applications. It is built on top of Express.js and makes use of modern JavaScript features, such as async/await.
+This project is designed to demonstrate the principles of SOLID and DDD (Domain-Driven Design) in action. It was developed during the RocketSeat Ignite Lab classes. The project used the Nestjs, which is a framework for building efficient, scalable Node.js server-side applications. It is built on top of Express.js and makes use of modern JavaScript features, such as async/await.
 
 ## The service features are:
 * Send Notification;
